@@ -11,6 +11,10 @@ header{
 	background-position: center;
 }
 
+.bg img{
+	opacity: 0.5;
+}
+
 ul{
 	position: absolute;
 	right: 5%;
